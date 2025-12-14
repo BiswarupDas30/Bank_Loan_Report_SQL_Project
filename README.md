@@ -97,7 +97,7 @@ Key columns used:
 ---
 ## 📬 Contact
 - 📧 Email: [biswarup643@gmail.com](mailto:biswarup643@gmail.com)  
-- 🔗 LinkedIn: [https://www.linkedin.com/posts/biswarup-das-b36ab7340_sql-project-bank-loan-report-analysis-activity-7405981741955420160-mwNH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWXqJoBuw2pK2nkhrdYE4dxvz4W2BKFkFI]
+- 🔗 LinkedIn: [www.linkedin.com/in/biswarup-das-b36ab7340](www.linkedin.com/in/biswarup-das-b36ab7340)
 ---
 ## ⭐ Support
 If you found this project helpful, please consider giving the repository a ⭐ and sharing it. Thank you!
